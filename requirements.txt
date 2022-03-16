@@ -1,0 +1,11 @@
+fastapi==0.75.0
+uvicorn==0.17.6
+tortoise-orm==0.18.1
+# python-telegram-bot==13.11
+python-jose==3.3.0
+cryptography==36.0.1
+passlib==1.7.4
+bcrypt==3.2.0
+python-multipart==0.0.5
+# aiogram==2.19
+pyTelegramBotAPI==4.4.0
